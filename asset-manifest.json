@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-task-management/static/css/main.26636cde.css",
+    "main.js": "/ai-task-management/static/js/main.20f5fc88.js",
+    "static/js/453.828de61a.chunk.js": "/ai-task-management/static/js/453.828de61a.chunk.js",
+    "index.html": "/ai-task-management/index.html",
+    "main.26636cde.css.map": "/ai-task-management/static/css/main.26636cde.css.map",
+    "main.20f5fc88.js.map": "/ai-task-management/static/js/main.20f5fc88.js.map",
+    "453.828de61a.chunk.js.map": "/ai-task-management/static/js/453.828de61a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26636cde.css",
+    "static/js/main.20f5fc88.js"
+  ]
+}
